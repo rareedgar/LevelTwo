@@ -1,3 +1,4 @@
+package rare.design.pattern;
 
 public class MVCExample {
 
