@@ -1,3 +1,5 @@
+package rare.design.pattern;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
